@@ -9,39 +9,39 @@ const Chapter01 = () => {
   const sectionUrls = [
     {
       id: "getting-started",
-      url: "https://raw.githubusercontent.com/AbidHasanRafi/development-js/main/01.%20HTML/assets/GETTING%20STARTED.md",
+      url: "https://raw.githubusercontent.com/AbidHasanRafi/netlab/main/contents/01.%20HTML/assets/GETTING%20STARTED.md",
     },
     {
       id: "head-elements",
-      url: "https://raw.githubusercontent.com/AbidHasanRafi/development-js/main/01.%20HTML/assets/HEAD%20ELEMENTS.md",
+      url: "https://raw.githubusercontent.com/AbidHasanRafi/netlab/main/contents/01.%20HTML/assets/HEAD%20ELEMENTS.md",
     },
     {
       id: "text-basics",
-      url: "https://raw.githubusercontent.com/AbidHasanRafi/development-js/main/01.%20HTML/assets/TEXT%20BASICS.md",
+      url: "https://raw.githubusercontent.com/AbidHasanRafi/netlab/main/contents/01.%20HTML/assets/TEXT%20BASICS.md",
     },
     {
       id: "list-types",
-      url: "https://raw.githubusercontent.com/AbidHasanRafi/development-js/main/01.%20HTML/assets/LIST%20TYPES.md",
+      url: "https://raw.githubusercontent.com/AbidHasanRafi/netlab/main/contents/01.%20HTML/assets/LIST%20TYPES.md",
     },
     {
       id: "add-links",
-      url: "https://raw.githubusercontent.com/AbidHasanRafi/development-js/main/01.%20HTML/assets/ADD%20LINKS.md",
+      url: "https://raw.githubusercontent.com/AbidHasanRafi/netlab/main/contents/01.%20HTML/assets/ADD%20LINKS.md",
     },
     {
       id: "add-images",
-      url: "https://raw.githubusercontent.com/AbidHasanRafi/development-js/main/01.%20HTML/assets/ADD%20IMAGES.md",
+      url: "https://raw.githubusercontent.com/AbidHasanRafi/netlab/main/contents/01.%20HTML/assets/ADD%20IMAGES.md",
     },
     {
       id: "semantic-tags",
-      url: "https://raw.githubusercontent.com/AbidHasanRafi/development-js/main/01.%20HTML/assets/SEMANTIC%20TAGS.md",
+      url: "https://raw.githubusercontent.com/AbidHasanRafi/netlab/main/contents/01.%20HTML/assets/SEMANTIC%20TAGS.md",
     },
     {
       id: "create-tables",
-      url: "https://raw.githubusercontent.com/AbidHasanRafi/development-js/main/01.%20HTML/assets/CREATE%20TABLES.md",
+      url: "https://raw.githubusercontent.com/AbidHasanRafi/netlab/main/contents/01.%20HTML/assets/CREATE%20TABLES.md",
     },
     {
       id: "forms-and-input",
-      url: "https://raw.githubusercontent.com/AbidHasanRafi/development-js/main/01.%20HTML/assets/FORMS%20AND%20INPUTS.md",
+      url: "https://raw.githubusercontent.com/AbidHasanRafi/netlab/main/contents/01.%20HTML/assets/FORMS%20AND%20INPUTS.md",
     },
   ];
 
