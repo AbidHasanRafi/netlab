@@ -7,7 +7,7 @@ const Home = () => {
     return (
         <div className='min-h-screen my-5'>
             <Helmet>
-                <title>development.js</title>
+                <title>NetLab</title>
             </Helmet>
             <Head/>
             <Cards/>
