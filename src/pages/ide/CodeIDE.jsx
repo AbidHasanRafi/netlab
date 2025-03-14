@@ -36,11 +36,11 @@ const CodeIDE = () => {
   };
 
   return (
-    <div className="container mx-auto p-6 lg:p-8 text-black dark:text-white font-mono min-h-screen">
-      <h1 className="lg:text-3xl text-2xl text-center mb-6">JS Code Editor</h1>
+    <div className="container mx-auto p-6 lg:p-8 text-black dark:text-gray-300 min-h-screen">
+      <h1 className="lg:text-3xl text-2xl font-semibold text-center mb-6">JS Code Editor</h1>
       
       {/* Code Editor Section */}
-      <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-6">
+      <div className="font-mono grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-6">
         {/* Code Editor Textarea */}
         <div className="bg-slate-300 dark:bg-neutral-800/70 p-4 rounded-lg shadow-md">
           <h2 className="text-xl sm:text-lg text-gray-900 dark:text-gray-300 mb-4">Code Editor</h2>

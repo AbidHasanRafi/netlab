@@ -139,21 +139,21 @@ const About = () => {
             <a
               title="Facebook"
               className="text-neutral-900 dark:text-gray-200 hover:text-neutral-700 dark:hover:text-gray-400 transition-colors duration-300 ease-in-out text-lg"
-              href="#"
+              href="https://www.facebook.com/fatema.rifa.01"
             >
               <FaFacebook />
             </a>
             <a
               title="GitHub"
               className="text-neutral-900 dark:text-gray-200 hover:text-neutral-700 dark:hover:text-gray-400 transition-colors duration-300 ease-in-out text-lg"
-              href="#"
+              href="https://github.com/Fatema-Rifa"
             >
               <FaGithub />
             </a>
             <a
               title="LinkedIn"
               className="text-neutral-900 dark:text-gray-200 hover:text-neutral-700 dark:hover:text-gray-400 transition-colors duration-300 ease-in-out text-lg"
-              href="#"
+              href="http://www.linkedin.com/in/mst-fatematuj-johora"
             >
               <FaLinkedin />
             </a>
@@ -177,21 +177,21 @@ const About = () => {
             <a
               title="Facebook"
               className="text-neutral-900 dark:text-gray-200 hover:text-neutral-700 dark:hover:text-gray-400 transition-colors duration-300 ease-in-out text-lg"
-              href="#"
+              href="https://www.facebook.com/share/16XupNaBkj/"
             >
               <FaFacebook />
             </a>
             <a
               title="GitHub"
               className="text-neutral-900 dark:text-gray-200 hover:text-neutral-700 dark:hover:text-gray-400 transition-colors duration-300 ease-in-out text-lg"
-              href="#"
+              href="https://github.com/Mohima70"
             >
               <FaGithub />
             </a>
             <a
               title="LinkedIn"
               className="text-neutral-900 dark:text-gray-200 hover:text-neutral-700 dark:hover:text-gray-400 transition-colors duration-300 ease-in-out text-lg"
-              href="#"
+              href="https://www.linkedin.com/in/mohima-binte-rasel-a1832228b"
             >
               <FaLinkedin />
             </a>

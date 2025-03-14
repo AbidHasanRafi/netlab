@@ -64,7 +64,7 @@ const Chapter01 = () => {
   return (
     <div className="min-h-screen grid grid-cols-1 lg:grid-cols-6 gap-4">
       <Helmet>
-        <title>DJs | HTML</title>
+        <title>NetLab | HTML</title>
       </Helmet>
       <div className="col-span-1 bg-white dark:bg-[#1A1A1A] p-4 pl-10 h-auto lg:sticky lg:top-16 lg:h-screen">
         <div className="lg:fixed">

@@ -5,7 +5,7 @@ const Chapter02 = () => {
     return (
         <div className='min-h-screen'>
             <Helmet>
-                <title>DJs | CSS</title>
+                <title>NetLab | CSS</title>
             </Helmet>
             <p className='text-center pt-80'>This page is under construction</p>
         </div>
